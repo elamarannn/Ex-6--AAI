@@ -1,5 +1,5 @@
 <H4>NAME: Elamaran S E</H4>
-<H4>REG NO:212222230036/H4>
+<H4>REG NO:212222230036</H4>
 <H4>EX. NO.6</H4>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
